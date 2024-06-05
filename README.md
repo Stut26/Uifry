@@ -20,4 +20,4 @@ Steps to run the project locally
 Figma design link reference: https://www.figma.com/design/4s8J9vWXwxXGWbV0GCB3aA/App-Landing-Page-Finance-Bank-Money-(Community)?node-id=101-79&t=wo32m6ei5dHixjqF-0
 
 
-Vercel Deployment Link:
+Vercel Deployment Link: https://uifry-beige-one.vercel.app/
